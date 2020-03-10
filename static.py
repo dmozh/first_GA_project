@@ -1,0 +1,4 @@
+class Static:
+    MODE_WORK = None
+    NO_PATH_VALUE = 100000000
+    CHANCE_MUTATION = 1
