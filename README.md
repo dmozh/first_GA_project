@@ -3,7 +3,7 @@
 
 Task for find optimal path on graph
 
-## Starting
+## Starting 
 ```
 python main.py 
 ```
