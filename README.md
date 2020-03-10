@@ -1,4 +1,4 @@
-#First project on GA    
+# First project on GA    
 **This project is test realisation GA, don't flexible**
 
 Task for find optimal path on graph
